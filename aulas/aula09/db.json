@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": "1a",
+      "tarefa": "Estudar react"
+      
+    },
+    {
+      "id": "2a",
+      "tarefa": "Fazer a pratica"
+      
+    }
+  ]
+}
